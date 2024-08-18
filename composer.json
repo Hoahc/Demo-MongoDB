@@ -1,0 +1,16 @@
+{
+    "name": "macbookair/mongo-db",
+    "autoload": {
+        "psr-4": {
+            "Macbookair\\MongoDb\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hoa Cao"
+        }
+    ],
+    "require": {
+        "mongodb/mongodb": "^1.19"
+    }
+}
